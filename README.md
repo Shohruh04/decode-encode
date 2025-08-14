@@ -48,6 +48,10 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
+### GitHub Pages
+
+The application is deployed at: https://shohruh04.github.io/decode-encode/
+
 ### Available Scripts
 
 - `npm run dev` - Start development server
